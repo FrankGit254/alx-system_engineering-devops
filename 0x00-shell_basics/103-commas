@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -p1a | sort -V | paste -sd ',' - && echo
+
