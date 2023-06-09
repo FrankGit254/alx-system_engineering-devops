@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "o string SCHOOL > school.mgc
+file -m school school.mgc
