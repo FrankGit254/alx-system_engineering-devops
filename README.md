@@ -1,2 +1,1 @@
-#!/bin/bash
-Learning shell\n
+Learning shell redirections
