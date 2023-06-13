@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/action
+find $(echo "$PATH" | tr ':' ' ') -type d | wc -1
